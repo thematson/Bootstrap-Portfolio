@@ -32,6 +32,7 @@ h2 {
   background-color: #191970;
 }
 
+
 .main-body {
   background-color: #fffafa;
   padding: 10px 20px 20px 20px;
@@ -72,6 +73,8 @@ h2 {
   text-align: center;
   border-style: ridge;
 }
+
+
 
 .footer {
     position: absolute;
